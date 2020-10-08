@@ -31,3 +31,12 @@ img:hover{
 h1, h2, ul, ol, img{
     animation: moveLeft 2s;
 }
+
+.homeButton {
+    width: 3rem;
+   text-decoration: none;
+   float: left;
+   display: block;
+  font-size: 20px;
+ }`
+}
