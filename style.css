@@ -14,6 +14,7 @@ img:hover{
     width: 600px;
 }
 
+
 @keyframes moveLeft{
     0%{
         transform: translate(-500px);
@@ -38,5 +39,9 @@ h1, h2, ul, ol, img{
    float: left;
    display: block;
   font-size: 20px;
- }`
+ }
 }
+
+.homeButton:hover{
+    width: 5rem;
+  }
