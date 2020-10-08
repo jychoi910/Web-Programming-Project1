@@ -10,6 +10,10 @@ img{
     transition: width 2s;
 }
 
+img.homeButton:hover {
+    width: 5rem;
+}
+
 img:hover{
     width: 600px;
 }
@@ -41,7 +45,3 @@ h1, h2, ul, ol, img{
   font-size: 20px;
  }
 }
-
-.homeButton:hover{
-    width: 5rem;
-  }
